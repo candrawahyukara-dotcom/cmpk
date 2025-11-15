@@ -1,0 +1,12 @@
+Analisis: Citra Asli: - Jelaskan secara singkat citra asli. Low Pass Filter (LPF): - Jelaskan efek visual dari LPF.
+- Jelaskan bagaimana ia mengurangi noise dan mengaburkan citra.
+- Diskusikan hubungan antara domain spasial (merata-ratakan piksel) dan domain frekuensi (melemahkan frekuensi tinggi).
+- Laporkan nilai piksel rata-rata. High Pass Filter (HPF): - Jelaskan efek visual dari HPF.
+- Jelaskan bagaimana ia mendeteksi tepi.
+- Diskusikan hubungan antara domain spasial (menekankan perbedaan) dan domain frekuensi (melemahkan frekuensi rendah).
+- Laporkan nilai piksel rata-rata. Band Pass Filter (BPF): - Jelaskan efek visual dari BPF. - Jelaskan bagaimana ia mempertajam citra.
+- Diskusikan hubungan antara domain spasial dan domain frekuensi.
+- Laporkan nilai piksel rata-rata.
+Perbandingan: - Bandingkan hasil visual dari setiap filter.
+- Jelaskan perbedaan dalam nilai piksel rata-rata.
+- Rangkum efek dari setiap filter dalam hal domain spasial dan frekuensi.
